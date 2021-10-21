@@ -1,0 +1,18 @@
+{
+    "name": "pedre/response",
+    "type": "library",
+    "description": "Starndard json response structure",
+    "keywords": ["response", "api", "json"],
+    "license": "MIT",
+    "homepage": "http://github.com",
+    "authors": [{
+        "name": "Pedram Rezaei",
+        "email": "pdmr.1992@gmail.com"
+    }],
+    "autoload": {
+        "psr-4": {
+            "Pedre\\Response\\": "packages/pedre/response/src"
+        }
+    },
+    "require": {}
+}
