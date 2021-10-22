@@ -2,12 +2,12 @@
     "name": "pedre/response",
     "type": "library",
     "description": "Standard json response structure",
-    "keywords": ["response", "api", "json"],
+    "keywords": ["response", "api", "json", "php", "laravel"],
     "license": "MIT",
     "homepage": "http://github.com",
     "authors": [{
         "name": "Pedram Rezaei",
-        "email": "pdmr.1992@gmail.com"
+        "email": "pdm.rezaei@gmail.com"
     }],
     "autoload": {
         "psr-4": {
