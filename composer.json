@@ -1,7 +1,7 @@
 {
     "name": "pedre/response",
     "type": "library",
-    "description": "Starndard json response structure",
+    "description": "Standard json response structure",
     "keywords": ["response", "api", "json"],
     "license": "MIT",
     "homepage": "http://github.com",
@@ -11,7 +11,7 @@
     }],
     "autoload": {
         "psr-4": {
-            "Pedre\\Response\\": "packages/pedre/response/src"
+            "Pedre\\Response\\": "src"
         }
     },
     "require": {}
