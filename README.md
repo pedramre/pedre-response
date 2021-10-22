@@ -1,6 +1,6 @@
 # PedreResponse
 
-It's very important to use same structure for responses in large projects that **PedreResponse** package do it.
+It's very important to use same structure for responses in large projects that **PedreResponse** package can do it for you.
 
 PedreResponse is a starndard json response structure.
 
