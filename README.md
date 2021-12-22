@@ -51,7 +51,7 @@ class UserController extends Controller
         if ($validator->fails()) {
             return  $response->setSuccess(false)
                 ->setMessage('Please Enter Valid Character')
-                ->serErrorCode(400)
+                ->setErrorCode(400)
                 ->setData(['errorMessages'=>$validator->messages()])
                 ->send();
         }
